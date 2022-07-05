@@ -1,0 +1,64 @@
+body{
+    font-family: 'Trispace', sans-serif;
+}
+
+h2{
+    font-size: 30px;
+    font-weight: 700px;
+}
+
+.orange-color{
+    color: orange;
+}
+
+.flexiable{
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img{
+    width: 80%;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(salmon,orange);
+    padding: 10px 15px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 5px orange;
+    color:  white;
+    font-weight: 700px;
+}
+
+#girl img{
+    width: 70%;
+}
+
+.girl-eat{
+    background-image: url(image/Frame.jpg);
+    background-repeat: no-repeat;
+    margin-left: -5px;
+    margin-right: -8px;
+}
+
+section .text{
+    text-align: center;
+}
+
+.food-shadow{
+    width: 40%;
+    box-shadow: 10px 10px 20px gray;
+    margin: 2%;
+    border-radius: 20px;
+}
+
+
+
+
+
+
