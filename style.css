@@ -47,7 +47,10 @@ h2{
 }
 
 section .text{
+    width: 50%;
+    margin: 0;
     text-align: center;
+    margin-left: 230px;
 }
 
 .food-shadow{
